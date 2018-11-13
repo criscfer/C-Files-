@@ -1,3 +1,4 @@
+//This program is an implementation of a function that uses std::stoi() from the <iostream> library to convert a string to an integer.
 #include<iostream>
 #include<vector>
 #include<string>

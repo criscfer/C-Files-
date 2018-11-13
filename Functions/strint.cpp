@@ -3,7 +3,7 @@
 #include<vector>
 #include<string>
 
-int strint(std::string str) // Function to convert strings to integers 
+int strint(std::string str)
 {
 	bool converted{true};
 	int num{};
